@@ -15,5 +15,5 @@ I'm a Cloud Engineering graduate at AltSchool Africa, and also an efficient Elec
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=asiyanbolatayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Muhammed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiyanbolatayo&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asiyanbolatayo&show_icons=true&include_all_commits=true&hide_border=true" alt="Muhammed's GitHub stats" /> | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/top-langs/?username=asiyanbolatayo&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
